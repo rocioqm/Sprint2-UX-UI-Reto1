@@ -2,4 +2,4 @@
 
 
 
-![diapositiva1] (image/Diapositiva1.JPG)
+![diapositiva1](image/Diapositiva1.JPG)
